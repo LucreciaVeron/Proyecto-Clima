@@ -38,6 +38,16 @@ Podés probar el proyecto aquí:
 
 ---
 
+## 🔑 API Key
+
+Este proyecto utiliza la API de [OpenWeatherMap](https://openweathermap.org/api).  
+Debes registrar una cuenta gratuita y obtener tu **API Key**, luego reemplazarla en el archivo `app.js`:
+
+```javascript
+const appId = 'TU_API_KEY_AQUI';
+
+---
+
 ## 🚀 Cómo usar
 
 1. Clonar el repositorio:
