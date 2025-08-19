@@ -45,6 +45,7 @@ Debes registrar una cuenta gratuita y obtener tu **API Key**, luego reemplazarla
 
 ```javascript
 const appId = 'TU_API_KEY_AQUI';
+```
 
 ---
 
